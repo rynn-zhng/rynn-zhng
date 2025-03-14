@@ -39,7 +39,7 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="410">      ###%%%%%%*           +%%%%#         </tspan>
 <tspan x="15" y="430">   ###o|s|l|e|n|%*:     .*%%||||%%%#     </tspan>
 <tspan x="15" y="450"> *##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%    </tspan>
-<tspan x="15" y="470"> %%%%#%#!%print("Hello, World!")%%!@|%#   </tspan>
+<tspan x="15" y="470"> %%%%#!%print("might be cooked")%!@|%#   </tspan>
 <tspan x="15" y="490"> %%%%%%#%%%#@!%%%%%\@####%\/%%%%%%%%%@\  </tspan>
 </text>
 <text x="390" y="30" fill="#c9d1d9">
@@ -49,22 +49,22 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">17 years</tspan>
 <tspan x="390" y="110" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">VSCode v1.96.2, nvim v0.10.4</tspan>
 
-<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">C++, Python, R, JavaScript</tspan>
-<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Libraries</tspan>.<tspan class="key">Frameworks</tspan>:<tspan class="cc"> . </tspan><tspan class="value"> VBA, MATLAB, PyTorch, TensorFlow </tspan>
+<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">C/C++, Python, Rust, TypeScript</tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Libraries</tspan>.<tspan class="key">Frameworks</tspan>:<tspan class="cc"> .... </tspan><tspan class="value"> React, Next.js, PyTorch, CUDA </tspan>
 <tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">English, Mandarin</tspan>
 
 <tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Career</tspan>.<tspan class="key">Interest</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Quantitative Finance</tspan>
 <tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Research</tspan>.<tspan class="key">Interest</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Prediction-Enhanced Monte Carlo</tspan>
 
 <tspan x="390" y="290">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ..................... </tspan><a href="mailto:rynn.zhng@gmail.com" target="_blank"><tspan class="value">rynn.zhng@gmail.com</tspan></a>
+<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ........................... </tspan><a href="mailto:rynn@zhng.dev" target="_blank"><tspan class="value">rynn@zhng.dev</tspan></a>
 <tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Work</tspan>:<tspan class="cc"> .......................... </tspan><a href="mailto:ryan@oslenlabs.com" target="_blank"><tspan class="value">ryan@oslenlabs.com</tspan></a>
-<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ..................................... </tspan><a href="https://linkedin.com/in/rynn-zhng" target="_blank"><tspan class="value">rynn-zhng</tspan></a>
-<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">X</tspan>:<tspan class="cc"> ............................................ </tspan><a href="https://x.com/rynn_zhng" target="_blank"><tspan class="value">rynn_zhng</tspan></a>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ...................................... </tspan><a href="https://linkedin.com/in/rynnzhng" target="_blank"><tspan class="value">rynnzhng</tspan></a>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">X</tspan>:<tspan class="cc"> ............................................... </tspan><a href="https://x.com/0xzhng" target="_blank"><tspan class="value">0xzhng</tspan></a>
 
 <tspan x="390" y="410">- Current Projects</tspan> -—————————————————————————————————————-—-
-<tspan x="390" y="450" class="cc">. </tspan><tspan class="key">Developing</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Stochastic DCF Modeling w/MCMC</tspan>
-<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Researching</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">IV Surface for Options w/Black-Scholes</tspan>
-<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Learning</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Distillation for Training LLMs</tspan>
+<tspan x="390" y="450" class="cc">. </tspan><tspan class="key">Developing</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Agentic DCF Modeling w/Markov Chains</tspan>
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Researching</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Multi-Model Agentic Systems in Finance</tspan>
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Grinding</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Leetcode 150 and Kaggle</tspan>
 </text>
 </svg> 
